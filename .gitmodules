@@ -1,1 +1,4 @@
 
+[submodule "PhysFad"]
+	path = PhysFad
+	url = https://github.com/tomer1203/PhysFad.git
